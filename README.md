@@ -11,4 +11,4 @@
 - always be ready to learn more.
 
 
-**My name is michael hendricks. I am a Veteran and former bartender looking for a new career.**
+**My name is michael hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://www.opentable.com/imperiallooking) for a new career.**

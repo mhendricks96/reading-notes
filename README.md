@@ -11,4 +11,4 @@
 - always be ready to learn more.
 
 
-** my
+**My name is michael hendricks. I am a Veteran and former bartender looking for a new career.**

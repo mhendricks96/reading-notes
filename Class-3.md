@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 #Git
 - used to hekp collaboration on a project.
 - takes a snapshot of every change.

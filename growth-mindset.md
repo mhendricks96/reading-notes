@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 ## Why a growth mindset is important
 1. It keeps you motivated even when stuck on a problem.
 2. It keeps you in a minset to never stop learning.

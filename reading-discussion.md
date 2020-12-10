@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 **Markdown syntax**
 Most of the reading today centered around markdown syntax. Being knowledgable in how to write clear markdown will be usefull no matter the system. Much of the syntax is similar to html except a little easier to write and read.
 

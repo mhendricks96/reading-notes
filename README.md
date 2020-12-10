@@ -1,5 +1,5 @@
 # Table of Contents
-[Growth Mindset](https://vbchomp.github.io/reading-notes/growth-mindset.md
+[Growth Mindset](https://vbchomp.github.io/reading-notes/growth-mindset.md)
 
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**

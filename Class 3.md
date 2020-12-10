@@ -5,7 +5,7 @@
 -accomplish this with ACP
   *add
   *commit
-  *push
+  *pushh
   
 -using many small and frequent commits is always important.
 -will require me to rewatch the lecture again to understand.

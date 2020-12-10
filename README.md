@@ -8,7 +8,7 @@
 *My end goal is a career in cyber security and I am hoping to start with a solid coding/development foundation*
 
 I believe having a growth mindset will be especially important for me as I am beginning without any technical background. I will have to work hard to stay caught up and I have to remember that is part of what makes it so fun and challenging.
-In the  wors of Dory from Finding Nemo:
+In the  words of Dory from Finding Nemo:
 >Just keep swimming.
 
 

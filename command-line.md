@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 ## Text editors
 * where text is written and managed
 * different features like code completion and syntax highlighting on every one

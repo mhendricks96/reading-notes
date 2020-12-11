@@ -6,7 +6,7 @@
 3. It keeps you from getting down when it seems like theres no hope.
 
 ## How I plan on staying in a growth mindset
-- Look for ispiration from those who have been successful
+- Look for ispiration from those who have been successful.
 - Remember that it will be hard until its easy, and then it will be hard again.
 - Always be ready to learn more.
 

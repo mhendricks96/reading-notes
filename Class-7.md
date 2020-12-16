@@ -18,4 +18,6 @@ Operators are what actually allow programmers to create a single value from one 
 **String** operators us + to combine strings together.
 
 ## What is a function?
+Functions are used to group a series of statements together to perform a specific task.
+*If different parts of a script repeat the same task you can reuse the function* 
 

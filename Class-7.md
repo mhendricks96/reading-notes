@@ -1,5 +1,7 @@
 
 
+[Table of Contents](README.md)
+
 # Javascript
 
 ## What is a script?

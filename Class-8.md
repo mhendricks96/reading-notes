@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 # Operators
 
 ## Comparison operators
@@ -31,7 +33,7 @@ similar to while loop except it will always run the statement at least once
 A condition is made up of 3 statements
 
 ### Initiation
-- create a variable and set it to )
+- create a variable and set it to 0
 - commonly set to i
 
 ### Condition

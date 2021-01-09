@@ -3,7 +3,7 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 
 # Table of Contents
 
-## 102
+## Code 102 Reading Notes
 * [Growth Mindset](growth-mindset.md)
 * [Reading Discussion](reading-discussion.md)
 * [Command Line](command-line.md)
@@ -15,7 +15,7 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 * [Class 7](Class-7.md)
 * [Class 8](Class-8.md)
 
-## 201
+## Code 201 Reading Notes
 
 * [Class 1/HTML and Javascript](class-01.md)
 

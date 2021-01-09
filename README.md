@@ -18,6 +18,21 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 ## Code 201 Reading Notes
 
 * [Class 1/HTML and Javascript](class-01.md)
+* [Class 02]()
+* [Class 03]()
+* [Class 04]()
+* [Class 05]()
+* [Class 06]()
+* [Class 07]()
+* [Class 08]()
+* [Class 09]()
+* [Class 10]()
+* [Class 11]()
+* [Class 12]()
+* [Class 013]()
+* [Class 14]()
+* [Class 15]()
+
 
 
 

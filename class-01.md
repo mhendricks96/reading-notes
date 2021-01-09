@@ -18,3 +18,10 @@
 
 * Every part of the script will not always be used.
 
+* Runs whever it was found in the html
+
+**Objects**
+
+* Events
+* Methods
+* Properties

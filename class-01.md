@@ -1,3 +1,5 @@
+[Table of Contents](README.md)
+
 # Introductory HTML and Javascript
 
 

@@ -7,7 +7,7 @@
 * [Class 3](Class-3.md)
 * [Class 4](Class-4.html)
 * [Class 5/css](Class-5.html)
-* [Class 6/basic javescript](Class-6.html)
+* [Class 6/basic javascript](Class-6.html)
 * [Class 6b/computers](Class-6b.html)
 * [Class 7](Class-7.md)
 * [Class 8](Class-8.md)

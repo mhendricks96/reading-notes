@@ -1,3 +1,6 @@
+
+This is a collection of all reading notes so far. it includes classes 102 and 201.
+
 # Table of Contents
 
 ## 102

@@ -1,7 +1,4 @@
-[Table of Contents](README.md)
-
 # Introductory HTML and Javascript
-
 
 ## HTML
 
@@ -14,6 +11,7 @@
 ## Javascript
 
 **What does a script?**
+
 * A script is a series of instructions for a computer to follow.
 
 * It must always have a stated goal.
@@ -22,8 +20,10 @@
 
 * Runs whever it was found in the html
 
-**Objects**
+### Objects
 
 * Events
 * Methods
 * Properties
+
+[Table of Contents](README.md)

@@ -33,3 +33,5 @@
 * an array contains a list of values or (things) instead of just one.
 
 * an item in an array is accessed by its order number in the array. The numbering starts with 0.
+
+[Table of Contents](README.md)

@@ -48,10 +48,15 @@ a script is a set of instructions a computer can follow step by step
 ## 3 types of data
 
 ### numeric
+
 ex. 0.9
 
 ### string
+
 ex. 'hello'
 
 ### boolean
+
 ex. true
+
+[Table of Contents](README.md)

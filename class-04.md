@@ -52,6 +52,6 @@ Can take an element out of normal flow and move it around. Other elements will f
   <li>Helps learn different styles and techniques from each other.</li>
   <li>Helps improve social skills and communication.</li>
   <li>helps with Job interview readiness</li>
-  <li>1 more skill you can take to an employer and not have to learn on the job</li>
-</ol>
+  <li>1 more skill you can take to an employer and not have to learn on the job</li><
+  /ol>
 

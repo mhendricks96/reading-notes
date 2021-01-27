@@ -21,7 +21,7 @@ In an object, variables and functions take on new names.
 
 With dot notation, to access a property or method of an object, you use the name of the object , followed by a period, then the name of the property or method you would like to access.
 
-## D.O.M.
+## D.O.M
 
 * Stands for document object model.
 

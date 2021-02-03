@@ -15,3 +15,7 @@
 * Document Object Model
 * Global Objects
   **Global Objects Include Math
+
+  [Table of Contents](README.md);
+
+  

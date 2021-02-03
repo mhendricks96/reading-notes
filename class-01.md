@@ -26,4 +26,4 @@
 * Methods
 * Properties
 
-[Table of Contents](README.md)
+[Table of Contents](README.md);

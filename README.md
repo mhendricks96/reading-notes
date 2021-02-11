@@ -26,7 +26,7 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 * [Class 07](class-07.md)
 * [Class 08](class-08.md)
 * [Class 09](class-09.md)
-* [Class 10]()
+* [Class 10/debugging](class-10.md)
 * [Class 11]()
 * [Class 12]()
 * [Class 013]()

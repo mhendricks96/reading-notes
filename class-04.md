@@ -46,12 +46,11 @@ Can take an element out of normal flow and move it around. Other elements will f
 
 ### 6 Ways Pair programming is helpful
 
-<ol>
-  <li>Provides greater efficiency with less time devoted to double-checking</li>
-  <li>Engaged collaboration makes programmers more focused and increases confidence.
-  <li>Helps learn different styles and techniques from each other.</li>
-  <li>Helps improve social skills and communication.</li>
-  <li>helps with Job interview readiness</li>
-  <li>1 more skill you can take to an employer and not have to learn on the job</li><
-  /ol>
+* Provides greater efficiency with less time devoted to double-checking
+* Engaged collaboration makes programmers more focused and increases confidence.
+* Helps learn different styles and techniques from each other.
+* Helps improve social skills and communication.
+* helps with Job interview readiness.
+* 1 more skill you can take to an employer and not have to learn on the job.
 
+[Table of Contents](README.md)

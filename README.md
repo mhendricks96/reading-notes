@@ -1,9 +1,12 @@
 
-This is a collection of all reading notes so far. it includes classes 102 and 201.
 
 # Table of Contents
 
+
+This is a collection of all reading notes so far. it includes classes 102 and 201.
+
 ## Code 102 Reading Notes
+
 * [Growth Mindset](growth-mindset.md)
 * [Reading Discussion](reading-discussion.md)
 * [Command Line](command-line.md)
@@ -27,14 +30,11 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 * [Class 08](class-08.md)
 * [Class 09](class-09.md)
 * [Class 10/debugging](class-10.md)
-* [Class 11]()
+* [Class 11/Images](class-11.md)
 * [Class 12]()
 * [Class 013]()
 * [Class 14]()
 * [Class 15]()
-
-
-
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**
 *My end goal is a career in cyber security and I am hoping to start with a solid coding/development foundation*
@@ -42,5 +42,3 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 I believe having a growth mindset will be especially important for me as I am beginning without any technical background. I will have to work hard to stay caught up and I have to remember that is part of what makes it so fun and challenging.
 In the  words of Dory from Finding Nemo:
 >Just keep swimming.
-
-

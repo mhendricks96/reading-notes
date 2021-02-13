@@ -22,4 +22,4 @@ Positions an element in relation to the browser window as opposed to the contain
 
 Can take an element out of normal flow and move it around. Other elements will flow around it.
 
-[Table of Contents](README.md);
+[Table of Contents](README.md)

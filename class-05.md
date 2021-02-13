@@ -15,3 +15,5 @@ height and width can also be changed.
 * save images in the correct format
 * save images in the correct size
 * measur eimages in pixels.
+
+[Table of Contents](README.md)

@@ -32,7 +32,7 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 * [Class 10/debugging](class-10.md)
 * [Class 11/Images](class-11.md)
 * [Class 12](class-12.md)
-* [Class 013]()
+* [Class 13](class-13.md)
 * [Class 14]()
 * [Class 15]()
 

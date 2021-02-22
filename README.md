@@ -33,7 +33,7 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 * [Class 11/Images](class-11.md)
 * [Class 12](class-12.md)
 * [Class 13/Web Storage](class-13.md)
-* [Class 14b/Google Teams]()
+* [Class 14b/Google Teams](class-14b.md)
 * [Class 15]()
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**

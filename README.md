@@ -34,9 +34,9 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Class 12](class-12.md)
 * [Class 13/Web Storage](class-13.md)
 * [Class 14b/Google Teams](class-14b.md)
-* [Class 14a/Transforms ](class-14a.md)
+* [Class 14a/Transforms](class-14a.md)
 
-## Code 102 Intermediate Software Development
+## Code 01 Intermediate Software Development
 
 * [ES6 classes reading](reading-01.md)
 

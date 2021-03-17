@@ -3,14 +3,14 @@
 # Table of Contents
 
 
-This is a collection of all reading notes so far. it includes classes 102 and 201.
+This is a collection of all reading notes so far. it includes classes 102, 201, and 301.
 
-## Code 102 Reading Notes
+## Code 102 Intro to Software Development
 
 * [Growth Mindset](growth-mindset.md)
 * [Reading Discussion](reading-discussion.md)
 * [Command Line](command-line.md)
-* [Class 3](Class-3.md)
+* [Git](Class-3.md)
 * [Class 4](Class-4.html)
 * [Class 5/css](Class-5.html)
 * [Class 6/basic javascript](Class-6.html)
@@ -18,7 +18,7 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 * [Class 7](Class-7.md)
 * [Class 8](Class-8.md)
 
-## Code 201 Reading Notes
+## Code 201 Foundations of Software Development
 
 * [Class 1/HTML and Javascript](class-01.md)
 * [Class 02/HTML](class-02.md)
@@ -36,9 +36,14 @@ This is a collection of all reading notes so far. it includes classes 102 and 20
 * [Class 14b/Google Teams](class-14b.md)
 * [Class 14a/Transforms ](class-14a.md)
 
+## Code 102 Intermediate Software Development
+
+* [](reading-01)
+
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**
-*My end goal is a career in cyber security and I am hoping to start with a solid coding/development foundation*
+*My end goal is to help make the world more accessible to everyone and I am hoping to start with a solid coding/development foundation*
 
 I believe having a growth mindset will be especially important for me as I am beginning without any technical background. I will have to work hard to stay caught up and I have to remember that is part of what makes it so fun and challenging.
 In the  words of Dory from Finding Nemo:
 >Just keep swimming.
+

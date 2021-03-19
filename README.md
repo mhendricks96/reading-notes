@@ -8,7 +8,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 ## Code 102 Intro to Software Development
 
 * [Growth Mindset](growth-mindset.md)
-* [Reading Discussion](reading-discussion.md)
+* [Reading Discussion](discussion.md)
 * [Command Line](command-line.md)
 * [Git](Class-3.md)
 * [Class 4](Class-4.html)

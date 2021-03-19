@@ -6,3 +6,4 @@
 
 - The render menthod returns a react element that is in a syntax called JSX
 
+- 

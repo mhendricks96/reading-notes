@@ -36,10 +36,11 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Class 14b/Google Teams](class-14b.md)
 * [Class 14a/Transforms](class-14a.md)
 
-## Code 01 Intermediate Software Development
+## Code 301 Intermediate Software Development
 
 * [ES6 classes reading](reading-01.md)
 * [React Basics](reading-class1.md)
+* [netlify, bootstrap, more react](reading-02.md)
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**
 *My end goal is to help make the world more accessible to everyone and I am hoping to start with a solid coding/development foundation*

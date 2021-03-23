@@ -9,3 +9,5 @@
 ## Overall takaways
 
 the simplist way to put it is it feels like React is a combination of javascript and html. we are using JSX to inser ppieces of html type script into our javascript.
+
+[Table of Contents](README.md)

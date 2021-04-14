@@ -5,3 +5,6 @@ This doc was about building a "mock" or wireframe of sorts for a react app. If y
 Once you have a boxed out mock, you can make a heirachy of all the parrents and children which makes it clear to see what needs to be passed down through props and up through funcions.
 
 Once you know how everything is being passed statically with props, you can start passing things dynamically by switching some out for state.
+
+[Table of Contents](README.md)
+

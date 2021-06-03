@@ -1,9 +1,7 @@
 
-
 # Table of Contents
 
-
-This is a collection of all reading notes so far. it includes classes 102, 201, and 301.
+This is a collection of all reading notes so far. it includes classes 102, 201, 301, and 401.
 
 ## Code 102 Intro to Software Development
 
@@ -53,10 +51,13 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [SQL vs NoSQL](reading-12.md)
 * [Error Codes](reading-13.md)
 
+## Code 401 - Advanced Software Development
+
+* [Pain and Suffering/ Big-O](readingNotes-01.md)
+
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**
 *My end goal is to help make the world more accessible to everyone and I am hoping to start with a solid coding/development foundation*
 
 I believe having a growth mindset will be especially important for me as I am beginning without any technical background. I will have to work hard to stay caught up and I have to remember that is part of what makes it so fun and challenging.
 In the  words of Dory from Finding Nemo:
 >Just keep swimming.
-

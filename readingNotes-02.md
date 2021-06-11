@@ -35,3 +35,5 @@
 * Modules can then be changed without worring about anything else in the code being affected.
 
 * Modules can be grouped together into packages
+
+[Table of Contents](README.md)

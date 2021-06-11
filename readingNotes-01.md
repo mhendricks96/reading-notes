@@ -7,3 +7,5 @@ The difference between pain and suffering is mindset. This reading made it clear
 ## BIG-O
 
 Big-O is a method of measuring and describing the perfomance of an algorithm. algorithms take more time depending on the input and big-o describes the rate at which the calculations become more complex depending on the input. It uses N as the basic measurement. it seems like the more complicated you are doing something with N the longer it will take. so just multiplying by N will take less time than squaring N, etc.
+
+[Table of Contents](README.md)

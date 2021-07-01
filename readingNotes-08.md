@@ -20,4 +20,4 @@
 
 ### Functional Decorators
 
-* to decorate a function we need to pass the function into the decorator function
+* to decorate a function we need to pass the function into the decorator functions

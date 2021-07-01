@@ -27,3 +27,5 @@
 * Linked Lists are linear data structures which means there is a sequence and order to how it is constucted and traversed like a game of hopscoth
 
 * linked lists are also dynamic data structures which means they can shrink and grow in size without a set amount of memory bing allocated
+
+[Table of Contents](README.md)

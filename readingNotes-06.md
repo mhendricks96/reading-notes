@@ -38,3 +38,4 @@
 
 * only care about braud overview of how complex the algorithm gets as the input grows.
 
+[Table of Contents](README.md)

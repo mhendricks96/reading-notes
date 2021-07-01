@@ -34,3 +34,5 @@
 * A syntax error is when something is wrong with the actial code.
 
 * if there is nothing wrong with the actual code an an error is found, that is an exception error.
+
+[Table of Contents](README.md)

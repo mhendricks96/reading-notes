@@ -42,3 +42,4 @@
 
 * run --cov and then turn report into something human readable and check report on web.
 
+[Table of Contents](README.md)

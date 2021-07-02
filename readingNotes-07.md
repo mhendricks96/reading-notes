@@ -65,3 +65,5 @@
 * time complexity measures how long it will take an algorithm to to something
 
 * space complexity measures how much memory an algorithm will take up to do something
+
+[Table of Contents](README.md)

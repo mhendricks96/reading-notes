@@ -21,3 +21,5 @@
 ### Functional Decorators
 
 * to decorate a function we need to pass the function into the decorator functions
+
+[Table of Contents](README.md)

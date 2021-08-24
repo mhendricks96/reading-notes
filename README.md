@@ -69,7 +69,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [matplotlib/seaborn](readingNotes-14.md)
 * [Trees](readingNotes-15.md)
 * [Machile Learning](readingNotes-16.md)
-* [](readingNotes-17.md)
+* [Web Scraping](readingNotes-17.md)
 * [Cryptogrophy](readingNotes-18.md)
 * [Django](readingNotes-26.md)
 * [More Django](readingNotes-27.md)

@@ -76,7 +76,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Django Forms](readingNotes-28.md)
 * [Custom user models/DjangoX](readingNotes-29.md)
 * [Hash Tables](readingNotes-30.md)
-
+* [Docker/REST API](readingNotes-31.md)
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**
 *My end goal is to help make the world more accessible to everyone and I am hoping to start with a solid coding/development foundation*
 

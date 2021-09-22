@@ -4,11 +4,11 @@
 
 - JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object
 
--  Authorization is the most common scenario for using JWT
+- Authorization is the most common scenario for using JWT
 
 - JSON Web Tokens are a good way of securely transmitting information between parties
 
-- header . payload . signature . 
+- header . payload . signature .
 
 - alot shorter than simple web tokens
 

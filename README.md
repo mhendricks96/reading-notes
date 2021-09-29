@@ -71,15 +71,19 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Machile Learning](readingNotes-16.md)
 * [Web Scraping](readingNotes-17.md)
 * [Cryptogrophy](readingNotes-18.md)
+*[Automation](readingNotes-19.md)
 * [Django](readingNotes-26.md)
 * [More Django](readingNotes-27.md)
 * [Django Forms](readingNotes-28.md)
 * [Custom user models/DjangoX](readingNotes-29.md)
 * [Hash Tables](readingNotes-30.md)
 * [Docker/REST API](readingNotes-31.md)
+[permissions & postgresql](readingNotes-32.md)
 * [Authentication & Production Server](readingNotes-33.md)
 * [SSH](readingNotes-34.md)
 * [Graps](readingNotes-35.md)
+* [DSA Review](readingNotes-36.md)
+* [React](readingNotes-37.md)
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**
 *My end goal is to help make the world more accessible to everyone and I am hoping to start with a solid coding/development foundation*

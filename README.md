@@ -51,7 +51,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [SQL vs NoSQL](reading-12.md)
 * [Error Codes](reading-13.md)
 
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development in Python
 
 * [Pain and Suffering/ Big-O](readingNotes-01.md)
 * [Testing/Recursion/Modules](readingNotes-02.md)
@@ -88,6 +88,11 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [React 3](readingNotes-39.md)
 * [React 4](readingNotes-41.md)
 * [ethics](readingNotes-43.md)
+
+## Code 401 - Advanced Software Development in Javascript
+
+
+
 
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**

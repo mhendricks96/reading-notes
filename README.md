@@ -91,7 +91,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 
 ## Code 401 - Advanced Software Development in Javascript
 
-
+* [Pre-Work](notes-pre.md)
 
 
 

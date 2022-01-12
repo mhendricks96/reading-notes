@@ -93,6 +93,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 
 * [Pre-Work](notes-pre.md)
 * [Node Ecosystem, TDD, CI/CD](notes-1.md)
+* [Express](notes-2.md)
 
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**

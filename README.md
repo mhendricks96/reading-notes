@@ -94,6 +94,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Pre-Work](notes-pre.md)
 * [Node Ecosystem, TDD, CI/CD](notes-1.md)
 * [Express](notes-2.md)
+* [Express ReST API](notes-3.md)
 * [linked-list](notes-5.md)
 
 

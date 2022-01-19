@@ -98,6 +98,9 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Data Modeling](notes-4.md)
 * [linked-list](notes-5.md)
 * [Authentication](notes-6.md)
+* [Bearer Authentication](notes-7.md)
+* [Access Control](notes-8.md)
+* [Authorization/Authentication](notes-9.md)
 
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**

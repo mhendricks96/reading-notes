@@ -106,6 +106,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Socket.io](notes-12.md)
 * [Message Queues](notes-13.md)
 * [Event Driven Architecture](notes-14.md)
+* [Trees](notes-15.md)
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**
 *My end goal is to help make the world more accessible to everyone and I am hoping to start with a solid coding/development foundation*

@@ -109,7 +109,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Trees](notes-15.md)
 * [AWS Cloud Servers](notes-16.md)
 * [AWS: S3 and Lambda](notes-17.md)
-* [](notes-18.md)
+* [AWS: API, Dynamo and Lambda](notes-18.md)
 * [](notes-19.md)
 
 

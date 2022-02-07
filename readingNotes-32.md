@@ -1,6 +1,6 @@
 # DRF Permissions
 
-- Together with authentication and throttling, permissions determine whether a request should be granted or denied access
+- Together  with authentication and throttling, permissions determine whether a request should be granted or denied access
 
 - always runat the very start of the view, before any other code is allowed to proceed
 

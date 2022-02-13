@@ -109,8 +109,8 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Trees](notes-15.md)
 * [AWS Cloud Servers](notes-16.md)
 * [AWS: S3 and Lambda](notes-17.md)
-* [AWS: API, Dynamo and Lambda](notes-18.md)
-* [](notes-19.md)
+* [AWS: API, Dnmo and Lambda](notes-18.md)
+* [AWS: Events](notes-19.md)
 
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**

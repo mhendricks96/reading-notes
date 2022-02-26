@@ -117,6 +117,12 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Advanced State with reducers](notes-29.md)
 * [Hash Tables](notes-30.md)
 * [Context API](notes-31.md)
+* [Context API - Behaviors](notes-32.md)
+* [Login and Auth](notes-33.md)
+* [API Integration](notes-34.md)
+* [Graphs](notes-35.md)
+
+
 
 
 **My name is Michael Hendricks. I am a Veteran and former bartender [at Imperial in Portland](https://pdx.eater.com/2020/9/29/21492980/imperial-the-crown-closing) looking for a new career.**

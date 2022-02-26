@@ -118,6 +118,7 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Hash Tables](notes-30.md)
 * [Context API](notes-31.md)
 * [Context API - Behaviors](notes-32.md)
+* [Login and Auth](notes-33.md)
 
 
 

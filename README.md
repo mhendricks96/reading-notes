@@ -121,6 +121,11 @@ This is a collection of all reading notes so far. it includes classes 102, 201, 
 * [Login and Auth](notes-33.md)
 * [API Integration](notes-34.md)
 * [Graphs](notes-35.md)
+* [Application State with Redux](notes-36.md)
+* [Redux - Combined Reducers](notes-37.md)
+* [Redux - Asynchronous Actions](notes-38.md)
+* [Redux - Additional Topics](notes-39.md)
+* [React Native](notes-41.md)
 
 
 
